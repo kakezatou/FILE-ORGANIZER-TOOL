@@ -107,7 +107,9 @@ The tool checks for:
 
 
 ## Version History
-* v0.1.0 (2025-02-01) - First version 
+
+* v0.1.0 (2025-02-01) - First version
+* v0.1.1 (2025-04-26) - Added Japanese language support
 
 
 ## License
