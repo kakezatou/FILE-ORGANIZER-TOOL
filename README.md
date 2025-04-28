@@ -33,7 +33,7 @@ A simple tool that renames files to match their parent folder names and moves th
 1. Download the code
 2. Run the program:
     ```bash
-    python file_organizer.py
+    python FILE-ORGANIZER-TOOL.py
     ```
 
 
