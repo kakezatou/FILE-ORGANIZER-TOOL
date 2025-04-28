@@ -9,7 +9,7 @@ import datetime
 LANG_DATA = {
     "en": {
         "title": "File Organizer Tool",
-        "version": "Version 0.2.0",
+        "version": "Version 0.1.1",
         "date": "Date: {date}",
         "configuration": "Configuration",
         "source_folder": "Source Folder:",
@@ -37,7 +37,7 @@ LANG_DATA = {
     },
     "ja": {
         "title": "ファイル整理ツール",
-        "version": "バージョン0.2.0",
+        "version": "Version 0.1.1",
         "date": "日付: {date}",
         "configuration": "設定",
         "source_folder": "ソースフォルダ:",
