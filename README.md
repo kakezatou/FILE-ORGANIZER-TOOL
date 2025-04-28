@@ -6,6 +6,13 @@
 
 A simple tool that renames files to match their parent folder names and moves them to a new location.
 
+
+## Description
+
+A simple tool that renames files to match their parent folder names and moves them to a new location.
+
+[English](README.md) | [日本語](README.ja.md)
+
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
@@ -86,16 +93,17 @@ The tool checks for:
 
 ## To-Do List
 
-1. Add multiple source folders option
-2. Add date filtering
-3. Add move files option (not just copy)
-4. Save favorite settings
-5. Add more search options
-6. Add dark mode
-7. Keep folder structure option
-8. Create Windows/Mac installer
-9. Add file preview
-10. Add more languages
+
+- [ ] Add multiple source folders option
+- [ ] Add date filtering
+- [ ] Add move files option (not just copy)
+- [ ] Save favorite settings
+- [ ] Add more search options
+- [ ] Add dark mode
+- [ ] Keep folder structure option
+- [ ] Create Windows/Mac installer
+- [ ] Add file preview
+- [ ] Add more languages
 
 
 ## Version History
