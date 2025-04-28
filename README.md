@@ -11,7 +11,7 @@ A simple tool that renames files to match their parent folder names and moves th
 
 A simple tool that renames files to match their parent folder names and moves them to a new location.
 
-[English](README.md) | [日本語](README.ja.md)
+[English](README.md) | [日本語](README-JP.md)
 
 ## Table of Contents
 - [Features](#features)
